@@ -1,0 +1,7 @@
+CREATE  TABLE test.user (
+  id INT(8) ZEROFILL NOT NULL AUTO_INCREMENT ,
+  name VARCHAR(25) NOT NULL ,
+  age INT(11) NOT NULL ,
+  isAdmin TINYINT(4) NOT NULL ,
+  createDate TIMESTAMP NOT NULL ,
+  PRIMARY KEY (id) )
