@@ -1,1 +1,1 @@
-Поиск по ID
+Spring MVC and Hibernate example
